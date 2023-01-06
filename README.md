@@ -2,9 +2,7 @@
 
 👋 Hi, I’m Anh Tester
 
-Chia sẻ kiến thức Tester, khóa học Testing miễn phí về `Automation Testing`, `Playwright`, `Selenium C#`, `Selenium Java`, `Appium`, `WinAppDriver`, `Jenkins`, `Katalon Studio`.
-
-Tất cả những source trên Git này Anh Tester đã chạy passed và rất dễ cài đặt cho các bạn.
+Chia sẻ kiến thức Tester, khóa học Testing miễn phí về `Automation Testing`, `Playwright`, `Selenium C#`, `Selenium Java`, `Appium`, `WinAppDriver`, `Jenkins`, `Katalon Studio`, `akaAT Studio`.
 
 > Anh Tester Blog: https://anhtester.com/
 
