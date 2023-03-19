@@ -6,4 +6,4 @@ Chia sẻ kiến thức Tester, khóa học Testing miễn phí về Automation 
 
 > Anh Tester Blog: https://anhtester.com/
 
-![Alt text](https://anhtester.com/uploads/logo/logo-anhtester-github-v2.jpg?raw=true "Logo Anh Tester Automation Testing Blog")
+![image](https://user-images.githubusercontent.com/87883620/226216307-6e7867b2-3d99-4114-954b-24900602211c.png)
